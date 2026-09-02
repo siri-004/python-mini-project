@@ -1083,9 +1083,9 @@ These standalone Python project files do not have a browser counterpart yet and 
       </a>
     </td>
     <td align="center" width="120">
-      <a href="https://github.com/shreyasarote7717-cyber">
-        <img src="https://github.com/shreyasarote7717-cyber.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="shreyasarote7717-cyber" /><br />
-        <sub><b>@shreyasarote7717-cyber</b></sub>
+      <a href="https://github.com/shreyasarote07">
+        <img src="https://github.com/shreyasarote07.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="shreyasarote07" /><br />
+        <sub><b>@shreyasarote07</b></sub>
       </a>
     </td>
     <td align="center" width="120">
